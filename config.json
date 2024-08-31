@@ -17,23 +17,23 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "YOUR_UID",
-    "YOUR_SECOND_UID",
-    "YOUR_THIRD_UID",
-    "YOUR_FOURTH_UID",
-		"YOUR_FIFTH_UID"
+    "61553565805276",
+    "",
+    "",
+    "",
+		""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Priyanshi Kaur",
-  "AGE": "24",
-  "GENDER": "FEMALE",
-  "nickNameBot": "⍟🄺🄸🄽🄶🄱🄾🅃㋛︎",
-  "FACEBOOK": "https://www.facebook.com/PriyanshiKaurJi",
-  "prefix": "/",
+  "OWNER": "Kolawole Suleiman",
+  "AGE": "18",
+  "GENDER": "MALE",
+  "nickNameBot": "⍟SMAN BOT⍟",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=61553565805276",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
