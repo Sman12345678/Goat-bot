@@ -1,6 +1,6 @@
 module.exports = {
  config: {
- name: "priyanshi",
+ name: "Sman",
  version: "1.0",
  author: "Priyansh Rajput",
  countDown: 5,
@@ -11,9 +11,9 @@ module.exports = {
  }, 
  onStart: async function(){}, 
  onChat: async function({ event, message, getLang }) {
- if (event.body.indexOf("priyanshi")==0 || event.body.indexOf("@Priyanshi Kaur")==0 || event.body.indexOf("Priyanshi")==0) {
+ if (event.body.indexOf("Suleiman")==0 || event.body.indexOf("@Kolawole Suleiman")==0 || event.body.indexOf("Suleiman")==0) {
  return message.reply({
- body: "𝐷𝑜𝑛'𝑡 𝐷𝑖𝑠𝑡𝑢𝑟𝑏 𝑀𝑦 𝑄𝑢𝑒𝑒𝑛 𝑃𝑟𝑖𝑦𝑎𝑛𝑠ℎ𝑖 𝐼𝑠 𝐵𝑢𝑠𝑦",
+ body: "PLEASE DON'T DISTURB 🥺",
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/9979yXA.gif")
  });
  }
