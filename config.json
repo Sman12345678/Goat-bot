@@ -17,11 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553565805276",
-    "",
-    "",
-    "",
-		""
+    "61553565805276"
+		
   ],
   "whiteListMode": {
     "enable": false,
